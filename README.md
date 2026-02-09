@@ -1,7 +1,8 @@
-🔍 igrep
+## 🔍 igrep
 
 A lightweight, high-performance command-line utility for pattern searching within files, featuring real-time terminal highlighting. Built with safety and speed in mind using the Rust standard library.
-🚀 Overview
+
+### 🚀 Overview
 
 igrep (Instant Grep) simplifies file searching by providing a clean, colorized output that makes finding specific data in large text files effortless. Unlike standard tools, igrep focuses on visual clarity through ANSI-coded highlighting.
 ✨ Features
